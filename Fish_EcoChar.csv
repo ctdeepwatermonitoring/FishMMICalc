@@ -1,0 +1,44 @@
+Species name,Temp,Trophic class,Tolerance,Stream flow,Origin,taxa_name
+American brook lamprey Lampetra appendix,C,NF,I,FS,A,Lampetra appendix
+American eel Anguilla rostrata ,W,TC,T,FD,N,Anguilla rostrata
+banded killifish Fundulus diaphanus diaphanus ,W,TC,T,MG,N,Fundulus diaphanus
+black crappie Pomoxis nigromaculatus ,W,TC,M,MG,A,Pomoxis nigromaculatus
+blacknose dace Rhinichthys atratulus ,C-W,GF,T,FS,N,Rhinichthys atratulus
+bluegill Lepomis macrochirus ,W,GF,T,MG,A,Lepomis macrochirus
+bluntnose minnow Pimephales notatus ,W,GF,T, ,A,Pimephales notatus
+brook trout Salvelinus fontinalis,C,TC,I,FS,N,Salvelinus fontinalis
+brown bullhead Ameiurus nebulosus ,W,GF,T,MG,N,Ameiurus nebulosus
+burbot Lota lota,C,TC,M,FS,N,Lota lota
+chain pickerel Esox niger,W,TC,M,MG,N,Esox niger
+common carp Cyprinus carpio carpio ,W,GF,T,MG,A,Cyprinus carpio
+common shiner Luxilus cornutus ,C-W,GF,M,FD,N,Luxilus cornutus
+creek chub Semotilus atromaculatus ,C-W,GF,T,MG,N,Semotilus atromaculatus
+creek chubsucker Erimyzon oblongus ,W,GF,I,FS,N,Erimyzon oblongus
+cutlips minnow Exoglossum maxillingua ,W,BI,I,FS,N,Exoglossum maxillingua
+fallfish Semotilus corporalis ,C-W,GF,M,FS,N,Semotilus corporalis
+fathead minnow Pimephales promelas,W,GF,T,MG,A,Pimephales promelas
+fourspine stickleback Apeltes quadracus ,C-W,WC,M,FD,N,Apeltes quadracus
+golden shiner Notemigonus crysoleucas,W,GF,T,MG,N,Notemigonus crysoleucas
+goldfish Carassius auratus auratus ,W,GF,T,MG,A,Carassius auratus
+green sunfish Lepomis cyanellus,W,GF,T,FD,A,Lepomis cyanellus
+largemouth bass Micropterus salmoides,W,TC,M,MG,A,Micropterus salmoides
+longnose dace Rhinichthys cataractae ,C-W,BI,M,FS,N,Rhinichthys cataractae
+mummichog Fundulus heteroclitus heteroclitus ,C-W,GF,T,MG,N,Fundulus heteroclitus
+pumpkinseed Lepomis gibbosus,W,GF,M,MG,N,Lepomis gibbosus
+redbreast sunfish Lepomis auritus ,W,GF,M,MG,N,Lepomis auritus
+redfin pickerel Esox americanus americanus ,W-B,TC,M,MG,N,Esox americanus
+rock bass Ambloplites rupestris ,C-W,TC,M,MG,A,Ambloplites rupestris
+sea lamprey Petromyzon marinus ,C-W,PF,M,FD,N,Petromyzon marinus
+slimy sculpin Cottus cognatus ,C,BI,I,FS,N,Cottus cognatus
+smallmouth bass Micropterus dolomieu ,C-W,TC,M,MG,A,Micropterus dolomieu
+spottail shiner Notropis hudsonius ,W,WC,M,MG,N,Notropis hudsonius
+striped bass Morone saxatilis ,W,TC,T,FD,N,Morone saxatilis
+swamp darter Etheostoma fusiforme ,W-B,BI,I,MG,N,Etheostoma fusiforme
+tessellated darter Etheostoma olmstedi ,C-W,BI,M,FS,N,Etheostoma olmstedi
+walleye Sander vitreus ,C-W,TC,M,MG,A,Sander vitreus
+white catfish Ameiurus catus ,W,TC,M,MG,A,Ameiurus catus
+white perch Morone americana ,C-W,TC,M,MG,N,Morone americana
+white sucker Catostomus commersonii ,C-W,GF,T,FD,N,Catostomus commersonii
+white sucker Catostomus commersonii ,C-W,GF,T,FD,N,Catostomus commersoni
+yellow bullhead Ameiurus natalis ,W-B,GF,T,MG,A,Ameiurus natalis
+yellow perch Perca flavescens ,C-W,TC,M,MG,N,Perca flavescens
